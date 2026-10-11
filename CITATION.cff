@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the author manuscript when referring to these materials."
+type: software
+title: "HeteroKV: Provenance-Tracked Bounded Evidence Packing for Source-Cued Cloud Document QA"
+version: "2026.10.11"
+date-released: 2026-10-11
+authors:
+  - family-names: An
+    given-names: Haoran
+    affiliation: Beijing City University
+  - family-names: Mao
+    given-names: Qide
+    affiliation: Beijing City University
+  - family-names: Cao
+    given-names: Yuzhong
+    affiliation: Peking University
+repository-code: "https://github.com/kldxg123/heterokv-paper-artifacts"
+abstract: "Author-manuscript materials and audited source-cued document QA evidence. No acceptance or DOI is asserted."

@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "files_hash_checked": 152,
+  "python_files_parsed": 30,
+  "derived_runs": 68,
+  "paper_pages": 6,
+  "secret_findings": [],
+  "gpu_jobs": 0,
+  "network_calls": 0
+}

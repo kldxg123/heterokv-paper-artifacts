@@ -1,0 +1,23 @@
+{
+  "verified_date": "2026-10-11",
+  "datasets": [
+    {
+      "name": "DocVQA",
+      "historical_mirror_id": "HuggingFaceM4/DocumentVQA",
+      "split": "validation",
+      "revision": "unknown_not_recorded",
+      "license": "original download portal terms",
+      "official_url": "https://site.docvqa.org/datasets/docvqa",
+      "raw_redistributed": false
+    },
+    {
+      "name": "TextVQA",
+      "historical_mirror_id": "lmms-lab/TextVQA",
+      "split": "validation",
+      "revision": "unknown_not_recorded",
+      "license": "CC BY 4.0 per official dataset page; check image attribution",
+      "official_url": "https://textvqa.org/dataset/",
+      "raw_redistributed": false
+    }
+  ]
+}

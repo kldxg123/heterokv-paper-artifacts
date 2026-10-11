@@ -1,0 +1,3 @@
+dataset,n,threshold,low_confidence_n,duration_unit_missing_n,accepted_unit_n,heuristic_score_median,heuristic_score_q90,artifact
+docvqa,1000,0.95,987,12,1,0.6209437347893536,0.7559673649479015,remote_artifacts\a100_20260601\docvqa_pool1000_source_handle_20260608.json.gz
+textvqa,2000,0.95,1973,9,18,0.5716807266049578,0.7824944684439725,remote_artifacts\a100_20260601\textvqa_pool2000_source_handle_20260608.json.gz
